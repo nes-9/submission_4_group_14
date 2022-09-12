@@ -23,11 +23,8 @@ Conference URL:
 http://confsite/...
 
 Group Number:
-0
+11
 
 Group Members:
-12345678 Name A
-23456789 Name B
-34567890 Name C
-45678901 Name D
-56789012 Name E
+17301018 Khadija-Tul-Kobra
+19101519 Avijit Gharamy
