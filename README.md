@@ -14,7 +14,7 @@ http://slides.google.com/
 Paper submission date (to workshop/conference):
 12 September 2022
 
-Paper submission ID: (received) from conference/workshop
+Paper submission ID:
 25
 
 
