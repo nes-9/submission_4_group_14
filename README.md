@@ -1,11 +1,10 @@
-Unlisted youtube video:
-http://youtube....
+Unlisted youtube video: 
+
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
 
-Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+Paper title: Discussion Among Supervised, Usupervised and Decision Tree model for Coreference Resolution
 
 Paper presentation (anyone can view without login):
 http://slides.google.com/
