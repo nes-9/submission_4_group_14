@@ -2,7 +2,9 @@ Unlisted youtube video:
 
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://cmt3.research.microsoft.com/User/Login
+
+
 
 Paper title: Discussion Among Supervised, Usupervised and Decision Tree model for Coreference Resolution
 
@@ -10,16 +12,19 @@ Paper presentation (anyone can view without login):
 http://slides.google.com/
 
 Paper submission date (to workshop/conference):
-25 October 1999
+12 September 2022
 
 Paper submission ID: (received) from conference/workshop
-1341234
+25
 
-Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Langauge Processing: Techniques and Practices
+
+Conference Name: ICCIT 2022 25th International Conference on Computer and Information Technology
+
+
 
 Conference URL:
-http://confsite/...
+
+https://iccit.org.bd/2022/home/
 
 Group Number:
 
