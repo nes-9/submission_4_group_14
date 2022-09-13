@@ -6,7 +6,7 @@ https://cmt3.research.microsoft.com/User/Login
 
 
 
-Paper title: Discussion Among Supervised, Usupervised and Decision Tree model for Coreference Resolution
+Paper title: Discussion Among Supervised, Unsupervised and Decision Tree model for Coreference Resolution
 
 Paper presentation (anyone can view without login):
 
