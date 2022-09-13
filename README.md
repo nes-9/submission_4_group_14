@@ -15,7 +15,7 @@ Paper submission date (to workshop/conference):
 12 September 2022
 
 Paper submission ID:
-25
+34
 
 
 Conference Name: ICCIT 2022 25th International Conference on Computer and Information Technology
